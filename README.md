@@ -1,6 +1,6 @@
 # <b>RELÓGIO DIGITAL</b>
 
-<img src="https://github.com/santiagolipe/Tela-de-Login/blob/main/src/login.png" style="width:200px;"><br>
+<img src="https://github.com/santiagolipe/relogio-digital/blob/main/assets/img/relogio.png" style="width:200px;"><br>
 
 
 ## Descrição
@@ -27,7 +27,7 @@ As tecnologias usadas no projeto foram:
 ## TELA DA APLICAÇÃO
 
 
-![inicio](https://github.com/santiagolipe/Tela-de-Login/blob/main/src/tela.JPG)
+![inicio](https://github.com/santiagolipe/relogio-digital/blob/main/assets/img/tela.PNG)
 
 
 ## Links
