@@ -17,7 +17,7 @@ As tecnologias usadas no projeto foram:
 ## Serviços usados
 
 * Github
-* Heroku - <a href target=_blank>https://tela-de-login-basica.herokuapp.com/</a>
+* Heroku - <a href target=_blank>https://relogio-digital.herokuapp.com/</a>
 
 
 ## Vamos começar?
